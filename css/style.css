@@ -110,22 +110,6 @@ h3 {
 .delayheader { -webkit-animation-delay: .3s; animation-delay: .3s;}
 .delaycontent { -webkit-animation-delay: 0.8s; animation-delay: 0.8s; }
 /* ----- content ----- */
-.photo {
-	background-image: url(../img/me.png);
-	background-size: 300px 100px;
-	background-repeat: no-repeat;
-	background-size: contain;
-/* 	height: 40vw; */
-	height: 69vh;
-	margin: -50vh 0 0 -60vh;
-/* 	margin: -60% 0 0 -60%; */
-}
-	@media screen and (max-width: 767px) {
-		.photo {
-			height: 90vw;
-			margin: 10vh 0;
-		}
-	}
 
 .contact-list-left {
 	max-width: 40%;
